@@ -1,0 +1,10 @@
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\bin\Debug\ComPortConnectionPOC.exe.config
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\bin\Debug\ComPortConnectionPOC.exe
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\bin\Debug\ComPortConnectionPOC.pdb
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\obj\Debug\ComPortConnectionPOC.csproj.AssemblyReference.cache
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\obj\Debug\ComPortConnectionPOC.Form1.resources
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\obj\Debug\ComPortConnectionPOC.Properties.Resources.resources
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\obj\Debug\ComPortConnectionPOC.csproj.GenerateResource.cache
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\obj\Debug\ComPortConnectionPOC.csproj.CoreCompileInputs.cache
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\obj\Debug\ComPortConnectionPOC.exe
+D:\Project\ComPortConnectionPOC\ComPortConnectionPOC\obj\Debug\ComPortConnectionPOC.pdb

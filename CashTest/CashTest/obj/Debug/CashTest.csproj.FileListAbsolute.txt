@@ -1,0 +1,21 @@
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\bin\Debug\CashTest.exe.config
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\bin\Debug\CashTest.exe
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\bin\Debug\CashTest.pdb
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\obj\Debug\CashTest.csprojResolveAssemblyReference.cache
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\obj\Debug\CashTest.frmMain.resources
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\obj\Debug\CashTest.frmPopCashExchanger.resources
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\obj\Debug\CashTest.Properties.Resources.resources
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\obj\Debug\CashTest.csproj.GenerateResource.Cache
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\obj\Debug\CashTest.exe
+F:\UNOSPAY - sch\Test Program\CashTest\CashTest\obj\Debug\CashTest.pdb
+D:\Project\Test\CashTest\CashTest\bin\Debug\CashTest.exe.config
+D:\Project\Test\CashTest\CashTest\bin\Debug\CashTest.exe
+D:\Project\Test\CashTest\CashTest\bin\Debug\CashTest.pdb
+D:\Project\Test\CashTest\CashTest\obj\Debug\CashTest.csproj.AssemblyReference.cache
+D:\Project\Test\CashTest\CashTest\obj\Debug\CashTest.frmMain.resources
+D:\Project\Test\CashTest\CashTest\obj\Debug\CashTest.frmPopCashExchanger.resources
+D:\Project\Test\CashTest\CashTest\obj\Debug\CashTest.Properties.Resources.resources
+D:\Project\Test\CashTest\CashTest\obj\Debug\CashTest.csproj.GenerateResource.cache
+D:\Project\Test\CashTest\CashTest\obj\Debug\CashTest.csproj.CoreCompileInputs.cache
+D:\Project\Test\CashTest\CashTest\obj\Debug\CashTest.exe
+D:\Project\Test\CashTest\CashTest\obj\Debug\CashTest.pdb

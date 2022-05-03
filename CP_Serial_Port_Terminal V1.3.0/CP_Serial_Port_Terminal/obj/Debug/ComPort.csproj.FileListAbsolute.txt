@@ -1,0 +1,36 @@
+c:\users\jackman\documents\visual studio 2015\Projects\ComPort\ComPort\bin\Debug\ComPort.exe.config
+c:\users\jackman\documents\visual studio 2015\Projects\ComPort\ComPort\bin\Debug\ComPort.exe
+c:\users\jackman\documents\visual studio 2015\Projects\ComPort\ComPort\bin\Debug\ComPort.pdb
+c:\users\jackman\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.csprojResolveAssemblyReference.cache
+c:\users\jackman\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+c:\users\jackman\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+c:\users\jackman\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.Cache
+c:\users\jackman\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.exe
+c:\users\jackman\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.pdb
+C:\Users\JackMan\Documents\Visual Studio 2015\Projects\Untuk Uji Coba\ComPort\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\JackMan\Documents\Visual Studio 2015\Projects\Untuk Uji Coba\ComPort\ComPort\obj\Debug\ComPort.exe
+C:\Users\JackMan\Documents\Visual Studio 2015\Projects\Untuk Uji Coba\ComPort\ComPort\obj\Debug\ComPort.pdb
+C:\Users\JackMan\Documents\Visual Studio 2015\Projects\Untuk Uji Coba\ComPort\ComPort\bin\Debug\ComPort.exe
+C:\Users\JackMan\Documents\Visual Studio 2015\Projects\Untuk Uji Coba\ComPort\ComPort\bin\Debug\ComPort.pdb
+C:\Users\JackMan\Documents\Visual Studio 2015\Projects\Untuk Uji Coba\ComPort\ComPort\obj\Debug\ComPort.csprojResolveAssemblyReference.cache
+C:\Users\JackMan\Documents\Visual Studio 2015\Projects\Untuk Uji Coba\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\JackMan\Documents\Visual Studio 2015\Projects\Untuk Uji Coba\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\JackMan\Documents\Visual Studio 2015\Projects\Untuk Uji Coba\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.Cache
+C:\Users\catur\Desktop\Backup All Files\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\catur\Desktop\Backup All Files\ComPort\bin\Debug\ComPort.exe
+C:\Users\catur\Desktop\Backup All Files\ComPort\bin\Debug\ComPort.pdb
+C:\Users\catur\Desktop\Backup All Files\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+C:\Users\catur\Desktop\Backup All Files\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\catur\Desktop\Backup All Files\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\catur\Desktop\Backup All Files\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+C:\Users\catur\Desktop\Backup All Files\ComPort\obj\Debug\ComPort.exe
+C:\Users\catur\Desktop\Backup All Files\ComPort\obj\Debug\ComPort.pdb
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\bin\Debug\ComPort.exe.config
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\bin\Debug\ComPort.exe
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\bin\Debug\ComPort.pdb
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\ComPort.csprojAssemblyReference.cache
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\ComPort.Form1.resources
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\ComPort.exe
+D:\2. HOBI\1. KUMPULAN PROJECT-KU\2020\1. C# - Perangkat Lunak Serial Terminal\Versi 5.1.0 + Save File Txt [Final Program YouTube]\Backup All Files - Copy\ComPort\obj\Debug\ComPort.pdb
