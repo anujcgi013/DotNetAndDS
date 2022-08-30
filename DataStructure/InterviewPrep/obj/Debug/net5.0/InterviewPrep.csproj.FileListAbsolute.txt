@@ -14,3 +14,19 @@ D:\learning\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.dll
 D:\learning\DataStructure\InterviewPrep\obj\Debug\net5.0\ref\InterviewPrep.dll
 D:\learning\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.pdb
 D:\learning\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.genruntimeconfig.cache
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.csproj.AssemblyReference.cache
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.AssemblyInfoInputs.cache
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.AssemblyInfo.cs
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.csproj.CoreCompileInputs.cache
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.dll
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\obj\Debug\net5.0\ref\InterviewPrep.dll
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.pdb
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\bin\Debug\net5.0\InterviewPrep.exe
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\bin\Debug\net5.0\InterviewPrep.deps.json
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\bin\Debug\net5.0\InterviewPrep.runtimeconfig.json
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\bin\Debug\net5.0\InterviewPrep.runtimeconfig.dev.json
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\bin\Debug\net5.0\InterviewPrep.dll
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\bin\Debug\net5.0\ref\InterviewPrep.dll
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\bin\Debug\net5.0\InterviewPrep.pdb
+D:\Fullstack Projects\DotNet and DS\DataStructure\InterviewPrep\obj\Debug\net5.0\InterviewPrep.genruntimeconfig.cache

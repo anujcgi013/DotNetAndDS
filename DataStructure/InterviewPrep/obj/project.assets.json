@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\anujc\\.nuget\\packages\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learning\\DataStructure\\InterviewPrep\\InterviewPrep.csproj",
+      "projectUniqueName": "D:\\Fullstack Projects\\DotNet and DS\\DataStructure\\InterviewPrep\\InterviewPrep.csproj",
       "projectName": "InterviewPrep",
-      "projectPath": "D:\\learning\\DataStructure\\InterviewPrep\\InterviewPrep.csproj",
-      "packagesPath": "C:\\Users\\anujc\\.nuget\\packages\\",
-      "outputPath": "D:\\learning\\DataStructure\\InterviewPrep\\obj\\",
+      "projectPath": "D:\\Fullstack Projects\\DotNet and DS\\DataStructure\\InterviewPrep\\InterviewPrep.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\Fullstack Projects\\DotNet and DS\\DataStructure\\InterviewPrep\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\anujc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

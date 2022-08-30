@@ -7,91 +7,79 @@ namespace InterviewPrep
     {
         static void Main(string[] args)
         {
-            var input = Console.ReadLine();
-            //ModifyVariableName(input);
-            CountOccurances(input);
-            
-            // Object Refrence Equal To
-            B objB = new B();
-            objB.a = 100;
-            objB.b = 200;
+            Console.WriteLine(isPalindrom("ABABCDCBAAA"));
+            //PrintTriangle(4);  
+        }
 
-            B objC = new B();
-            objC.a = 200;
-            objB = objC;
-            Console.WriteLine(objB.a + objB.b);
-
-            string a = "   ABC TBF    ";
-            //a = a.Replace(' ', string.Empty);
-            string[] b = a.Split(' ');
-            string result= null;
-            for (int i = 0; i < b.Length; i++)
+        public static void PrintTriangle(int length)
+        {
+            for (int i = 1; i <= length; i++)
             {
-                if(b[i]!=string.Empty)
+                for (int j = 1; j <= i; j++)
                 {
-                    result += b[i];
-                    if(i!= b.Length-1)
+                    Console.Write("*");
+                }
+                Console.Write('\n');
+            }
+        }
+
+        public static string isPalindrom(string str)
+        {
+            if (str == null || str.Length == 0) return null;
+            int startIndex = 0;
+            int middleLength = 0;
+            int longest = 0;
+            if (str.Length < 2)
+            {
+                return str;
+            }
+            else
+            {
+                for (int i = 0; i < str.Length; i++)
+                {
+                    // Even number of Characters
+                    middleLength = FindPalindrome(str, i, i);
+                    if (middleLength > longest)
                     {
-                        result += ' ';
+                        longest = middleLength;
+                        startIndex = i - middleLength / 2;
+                    }
+                    // Odd Number of Character Length
+                    middleLength = FindPalindrome(str, i, i + 1);
+                    if (middleLength > longest)
+                    {
+                        longest = middleLength;
+                        startIndex = i - middleLength / 2 + 1;
                     }
                 }
+                return str.Substring(startIndex, longest);
             }
-           }
+        }
 
-        protected static string ModifyVariableName(string input)
+        public static int FindPalindrome(string SubStr, int left, int right)
         {
-            input = input.Trim();
-            if (string.IsNullOrEmpty(input)) return input;
-            String result = "";
-
-            for (int i = 0; i < input.Length; i++)
+            int length = 0;
+            while (left >= 0 && right < SubStr.Length)
             {
-                if (char.IsUpper(input[i]))
+                if (SubStr[left] != SubStr[right])
                 {
-                    result += "_" + char.ToLower(input[i]);
-
+                    break;
                 }
-                else if (input[i] == '_')
+
+                if (left == right)
                 {
-                    i++;
-                    result += char.ToUpper(input[i]);
+                    length++;
                 }
                 else
                 {
-                    result += input[i];
+                    length += 2;
                 }
-            }
-            return result;
-        }
 
-        protected static string CountOccurances(string input)
-        {
-            input = input.Trim();
-            if (string.IsNullOrEmpty(input)) return input;
-            string result = "";
-            input = string.Concat(input.OrderBy(c => c));
-            while (input.Length > 0)
-            {
-                int count = 0;
-                for (int i = 0; i < input.Length; i++)
-                {
-                    if (input[0] == input[i])
-                    {
-                        count++;
-                    }
-                    else break;
-                }
-                result += input[0] + count.ToString();
-                input = input.Replace(input[0].ToString(), "");
+                left--;
+                right++;
             }
-            return result;
+            return length;
         }
-    }
-
-   public class B
-    {
-        public int a;
-        public int b;
 
     }
 }
