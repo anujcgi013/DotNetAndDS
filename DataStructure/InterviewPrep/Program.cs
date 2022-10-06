@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Linq;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace InterviewPrep
 {
@@ -9,6 +11,47 @@ namespace InterviewPrep
         {
             Console.WriteLine(isPalindrom("ABABCDCBAAA"));
             //PrintTriangle(4);  
+        }
+
+        public static int computeDayGains(int nbSeats, int[] payingGuests, int[] guestMovements)
+        {
+            int sum = 0;
+            var occupants = new Dictionary<int, int>();
+            var queue = new List<int>();
+            for (int k = 1; k <= nbSeats; k++)
+            {
+                occupants.Add(k, -1);
+            }
+
+            for (int i = 0; i < guestMovements.Length; i++)
+            {
+                int currentMember = guestMovements[i];
+                bool flag = false;
+                if (!queue.Contains(currentMember))
+                {
+                    foreach (var entry in occupants)
+                    {
+                        if (entry.Value == -1 && !occupants.ContainsValue(currentMember))
+                        {
+                            occupants.Add(entry.Key, currentMember);
+                            flag = true;
+                            break;
+                        }
+                        else if (entry.Value == currentMember)
+                        {
+                            occupants.Add(entry.Key, queue.Count() == 0 ? -1 : queue.First());
+                            sum += payingGuests[currentMember];
+                            flag = true;
+                        }
+                    }
+                    if (!flag) queue.Add(currentMember);
+                }
+                else
+                {
+                    queue.RemoveAt(currentMember);
+                }
+            }
+            return sum;
         }
 
         public static void PrintTriangle(int length)
